@@ -1,0 +1,89 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+img {
+  max-width: 100%;
+}
+
+.macbook{
+  background-color:#FBFBFD;
+}
+/* .iphone {
+  color: #e8e8e8;
+  background-image: url(../images/home/iphone11-pro-bg.jpg);
+  background-position: bottom;
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 580px;
+} */
+/* .iphone-11 {
+  background-image: url("../images/home/iphone11-bg.jpg");
+  background-position: bottom;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 580px;
+} */
+/* .watch {
+  background-image: url("../images/home/watch-series-5.jpg");
+  height: 580px;
+  background-position: bottom;
+  background-repeat: no-repeat;
+  background-size: cover;
+} */
+/* .apple-card {
+  background-image: url("../images/home/apple-card.jpg");
+  background-position: bottom;
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 580px;
+} */
+/* .children {
+  background-image: url("../images/home/apple-tv-background.jpg");
+  background-position: bottom;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 580px;
+} */
+.servant {
+  padding-top: 50px;
+}
+/* .baby {
+  background-image: url(../images/home/air-pods.jpg);
+  background-position: bottom;
+  background-repeat: no-repeat;
+  background-size: auto;
+  background-color: black;
+  height: 580px;
+  color: #e8e8e8;
+} */
+ .baby{
+  background-color:#000000 ;
+ }
+/* .macbook-pro {
+  background-image: url(../images/home/macbook-pro.jpg);
+  background-position: bottom;
+  background-repeat: no-repeat;
+  background-size: initial;
+  height: 580px;
+
+  background-color: #fafafa;
+} */
+ .macbook-pro{
+  background-color: #FBFBFD;
+ }
+/* .jazz-sprint {
+  background-image: url(../images/home/new-ipad.jpg);
+  background-position: bottom;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 580px;
+} */
+
+.link:after {
+  content: "\02C3";
+}
+.whith-the-tv{
+
+  padding-top: 75%;
+}
